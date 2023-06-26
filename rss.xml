@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title></title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 26 Jun 2023 00:08:08 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[Office 365 Correlations]]></title>
+            <guid>3903e8c7eba24eeb8879623fcc37b339</guid>
+            <pubDate>Mon, 26 Jun 2023 00:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[<h1 id="payroll-diversion-attack-detection">Payroll diversion attack detection</h1>
+<h2 id="suspicious-logins">Suspicious logins</h2>
+<h2 id="suspicious-commands">Suspicious commands</h2>
+<h2 id="suspsicious-invoices">Suspsicious invoices</h2>
+<h1 id="bec">BEC</h1>
+<h2 id="logins-to-the-account">Logins to the account<img src="/_resources/759d53df9bf94edcbb93dd940bb6dda7.svg" /></h2>
+<h1 id="automation">Automation</h1>
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>
